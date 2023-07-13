@@ -20,7 +20,7 @@ const detectPalindrom = (inputText) => {
   }
 };
 
-detectPalindrom('malam');
+detectPalindrom('Kasur ini rusak');
 
 //Words reverse
 const wordsReverse = (inputWords) => {
@@ -36,4 +36,4 @@ const wordsReverse = (inputWords) => {
   }
 };
 
-wordsReverse(true);
+wordsReverse('Saya belajar Javascript');

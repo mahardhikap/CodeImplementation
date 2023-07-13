@@ -5,7 +5,7 @@ const divideAndSort = (isiAngka) =>{
         const prosesSort = divideZero[i].split('').sort((a,b)=> a-b).join('')
         hasilSort.push(prosesSort)
     }
-    console.log(hasilSort.join(''))
+    console.log(parseInt(hasilSort.join('')))
 }
 
 divideAndSort(5956560159466056)

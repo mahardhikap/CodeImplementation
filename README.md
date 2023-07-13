@@ -34,9 +34,9 @@
 <ol>
     <li>Mulai</li>
     <li>Mengonversi input menjadi string dan membaginya dengan menggunakan pemisah '0'</li>
-    <li>Melakukan perulangan untuk setiap elemen, memecah setiap elemen menjadi array karakter, mengurutkannya, dan menggabungkannya kembali ke dalam string</li>
+    <li>Melakukan perulangan untuk setiap elemen, memecah setiap elemen menjadi array karakter substring, mengurutkannya.</li>
     <li>Memasukkan proses sortir ke dalam array hasil sortir</li>
-    <li>Menggabungkan semua elemen dalam hasil sortir menjadi satu string dengan menggunakan pemisah yang ditentukan</li>
+    <li>Menggabungkan semua elemen dalam hasil sortir menjadi satu dengan join kemudian ubah lagi ke number dengan parseInt</li>
     <li>Mencetak hasilnya</li>
     <li>Selesai</li>
 </ol>
